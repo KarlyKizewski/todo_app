@@ -1,24 +1,7 @@
-# README
+Single-Page Web Application made using JavaScript.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Visitors may add to their list and cross "done" items off - in a dynamic application.
+This was made to get aquainted with JAVASCRIPT syntax, JQUERY library options, and performing AJAX requests.
+Also uses HTML, CSS, RUBY, RAILS, ALGORITHMS. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://checksandboxes.herokuapp.com/
