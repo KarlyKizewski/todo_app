@@ -3,7 +3,6 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap');
 
-
 html,
 body {
   margin: 0;
@@ -27,10 +26,10 @@ button {
 }
 
 body {
-  font: 14px 'Hammersmith One', sans-serif;
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4em;
-  background: #dffa7f;
-  color: #f7bc31;
+  background: #f5f5f5;
+  color: #4d4d4d;
   min-width: 230px;
   max-width: 550px;
   margin: 0 auto;
@@ -81,7 +80,7 @@ input[type="checkbox"] {
   font-size: 100px;
   font-weight: 100;
   text-align: center;
-  color: rgba(247, 188, 49, 0.25);
+  color: rgba(175, 47, 47, 0.15);
   -webkit-text-rendering: optimizeLegibility;
   -moz-text-rendering: optimizeLegibility;
   text-rendering: optimizeLegibility;
@@ -377,14 +376,4 @@ html .clear-completed:active {
   .filters {
     bottom: 10px;
   }
-}
-
-.author {
-  test-align: center;
-  margin-bottom: 20px;
-}
-
-.author a {
-  color: #c2b617;
-  text-decoration: none;
 }
